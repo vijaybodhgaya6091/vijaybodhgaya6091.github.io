@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d1801b5e.css",
-    "main.js": "/static/js/main.e7c0b775.js",
+    "main.js": "/static/js/main.934ceb0d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/codecov.webp": "/static/media/codecov.687c11fcfeebc1226c10.webp",
-    "static/media/Vijay_Kumar_Resume.pdf": "/static/media/Vijay_Kumar_Resume.6bd32cf4b5aa7827e164.pdf",
     "static/media/kickstarter.jpg": "/static/media/kickstarter.d59d93de97fe1bc9bdab.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.d1801b5e.css.map": "/static/css/main.d1801b5e.css.map",
-    "main.e7c0b775.js.map": "/static/js/main.e7c0b775.js.map",
+    "main.934ceb0d.js.map": "/static/js/main.934ceb0d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1801b5e.css",
-    "static/js/main.e7c0b775.js"
+    "static/js/main.934ceb0d.js"
   ]
 }
