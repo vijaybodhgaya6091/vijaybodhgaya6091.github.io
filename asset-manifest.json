@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.d1801b5e.css",
-    "main.js": "/static/js/main.6dd3c329.js",
+    "main.js": "/static/js/main.3a0007bc.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Kindmeal_homepage.png": "/static/media/Kindmeal_homepage.e7045c78b7b89bc43d9f.png",
     "static/media/purplle.png": "/static/media/purplle.9748c1dff3c9bf65fe65.png",
     "static/media/codecov.webp": "/static/media/codecov.687c11fcfeebc1226c10.webp",
-    "static/media/FW20_0643-Vijay-Kumar-Resume.pdf": "/static/media/FW20_0643-Vijay-Kumar-Resume.6750581364a4f1281fd6.pdf",
+    "static/media/FW20_0643-Vijay-Kumar-Resume.pdf": "/static/media/FW20_0643-Vijay-Kumar-Resume.31be2a27d3d534ac5841.pdf",
     "static/media/kickstarter.jpg": "/static/media/kickstarter.d59d93de97fe1bc9bdab.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.d1801b5e.css.map": "/static/css/main.d1801b5e.css.map",
-    "main.6dd3c329.js.map": "/static/js/main.6dd3c329.js.map",
+    "main.3a0007bc.js.map": "/static/js/main.3a0007bc.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1801b5e.css",
-    "static/js/main.6dd3c329.js"
+    "static/js/main.3a0007bc.js"
   ]
 }
